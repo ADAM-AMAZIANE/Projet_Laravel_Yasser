@@ -65,7 +65,7 @@
 <body style="background-image: url('{{ asset('imgs/Homebg (1).jpg') }}'); background-size: cover;">
      <div class="home1">
 
-    <p>Welcome to ADAM'STORE , your gateway to endless stories. Dive into a world of imagination with our curated collection of books, spanning genres and captivating tales. Find your next literary adventure at ADAM'STORE where every page turns into a journey. Happy reading!</p>
+    <p>Welcome to YASSIR'STORE , your gateway to endless stories. Dive into a world of imagination with our curated collection of books, spanning genres and captivating tales. Find your next literary adventure at YASSIR'STORE where every page turns into a journey. Happy reading!</p>
     <button class="btn1"><a style="color: black" href="">READ</a></button>
      </div>
 

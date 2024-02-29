@@ -3,7 +3,7 @@
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css">
 
  <nav style="background-color: rgba(225, 157, 69, 0.801) ;height: 98px;" class="fixed-top navbar navbar-expand-lg navbar-light ">
-    <a style="margin-right: 50px;" class="navbar-brand" href="/">     <img style="height: 100px; " src="{{ asset('imgs/logo.jpg') }}" alt="LOGO">    </a>
+    <a style="margin-right: 50px;" class="navbar-brand" href="/">   YASSIR STORE  </a>
     <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
       <span class="navbar-toggler-icon"></span>
     </button>
